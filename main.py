@@ -3,7 +3,7 @@
 except for '+' and '-'.
 """
 
-__author__ = "???"
+__author__ = "Kevin Blount"
 
 
 def add(x, y):
